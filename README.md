@@ -6,5 +6,9 @@ I built nw.js loading up messenger.com, simple.
 
 # How to use it
 Open messenger.exe
+
 Login like you would normal do at https://www.messenger.com/
-enjoy not having to open and click buttons just for messenger.
+
+Enjoy not having to open a browser, nativate to https://www.messenger.com/ and login.
+
+Currently only built for windows, but it's made with nw.js so you can no doubt build it for OSX or linux
