@@ -1,0 +1,21 @@
+{
+  "name": "nw-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https://www.messenger.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "window": {
+    "icon": "icon.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 640,
+    "height": 480
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^1.0.2"
+  }
+}
